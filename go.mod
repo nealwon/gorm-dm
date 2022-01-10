@@ -1,4 +1,4 @@
-module github.com/ibeacon-haofei/gorm-dm
+module github.com/nealwon/gorm-dm
 
 go 1.15
 
